@@ -8,7 +8,7 @@
 - 🧪 Image Processing with OpenCV and TensorFlow
 
 ## 💼 Current Internship: AquaBagh
-  — Building IoT-driven prediction models for smart agriculture 🌱
+- Building IoT-driven prediction models for smart agriculture 🌱
 
 ## 🛠️ Projects include:
 - Interviewer AI – Automating hiring with smart screening
