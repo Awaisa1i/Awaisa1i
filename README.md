@@ -7,14 +7,14 @@
 - 🔍 LLMs (Large Language Models) using OpenAI / Groq API
 - 🧪 Image Processing with OpenCV and TensorFlow
 
-  💼 Current Internship: AquaBagh
+## 💼 Current Internship: AquaBagh
   — Building IoT-driven prediction models for smart agriculture 🌱
 
-  🛠️ Projects include:
+## 🛠️ Projects include:
 - Interviewer AI – Automating hiring with smart screening
 - Diabetic Retinopathy Detection – ML-powered image classifier
 - LLM Summarizer App – Real-time summarization with Groq's API
 - Sales & Job Market Dashboards – Data storytelling with visuals
 
-  📫 Contact: mawaisali833@gmail.com  
+## 📫 Contact: 
 🔗 [LinkedIn](https://www.linkedin.com/in/awais-ali-91601b259/)
